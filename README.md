@@ -2,7 +2,7 @@
 
 Estou dando meus primeiros passos trabalhando com Git e GitHub.
 
-### ------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------
 
 
 | Conteúdos | Andamento
@@ -17,7 +17,7 @@ Estou dando meus primeiros passos trabalhando com Git e GitHub.
 |Enviando e baixando alterações com o repositório remoto| **Não iníciado** ✖️
 |trabalhando com Branches| **Não iníciado** ✖️
 
-### ------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------
 
 ## 🗒️ Anotações Git e GitHub
 - touch README.md: criamos um readme pelo terminal.
