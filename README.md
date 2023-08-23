@@ -26,6 +26,10 @@ Estou dando meus primeiros passos trabalhando com Git e GitHub.
 
 - git add README.md: adiciona o README a lista de coisas que precisam de commit.
 
+- git log: exibe informações do seu commit.
+
+- git add: Inclúi as alterações feitas.
+
 - git commit -m"descrição do seu commit".
 
-- git log: exibe informações do seu commit.
+- git push: envia o arquivo modificado para o repositório remoto.
