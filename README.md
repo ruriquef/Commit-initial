@@ -12,10 +12,10 @@ Estou dando meus primeiros passos trabalhando com Git e GitHub.
 |Autenticando via Token| **Concluído** ✅
 |Autenticando via SSH| **Concluído** ✅
 |Criando e clonando repositórios| **Concluído** ✅
-|Salvando alterações no repositório local|**Em andamento** ⏱️
-|Desfazendo alterações no repositório local| **Não iníciado** ✖️
-|Enviando e baixando alterações com o repositório remoto| **Não iníciado** ✖️
-|trabalhando com Branches| **Não iníciado** ✖️
+|Salvando alterações no repositório local|**concluído** ✅
+|Desfazendo alterações no repositório local| **Concluído** ✅ ✖️
+|Enviando e baixando alterações com o repositório remoto| **Concluído** ✅ ✖️
+|trabalhando com Branches| **Concluído** ✅ ✖️
 
 ### --------------------------------------------------------------------------------------
 
